@@ -20,4 +20,6 @@ https://maduaraujo.github.io/Clone-ChatGPT/
     - HTML
     - CSS
     - React
+    -JavaScript
+    -TypeScript
     - Inteligência Artificial
